@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "s4vd"]
+	path = s4vd
+	url = https://github.com/mwsill/s4vd
+	shallow = true
+	registered = true
